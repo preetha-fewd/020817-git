@@ -1,6 +1,16 @@
 header,hgroup,nav,section,article,aside,footer {
     display:block;
 }
+body {
+	background: rgb(255,252,251);
+	margin: 0 auto;
+	width: 70%;
+	font-family: 'Roboto', sans-serif;
+	font-size: .85em;
+	font-weight: 300;
+	line-height:1.6;
+	color: rgb(70,77,87);
+}
 main dt {
 	 font-weight: bold;
  }
